@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DemoLibrary.Utilities.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoLibrary.Utilities
+namespace DemoLibrary.Utilities.Implementations
 {
     public class DataAccess : IDataAccess
     {

@@ -1,4 +1,4 @@
-﻿namespace DemoLibrary.Utilities
+﻿namespace DemoLibrary.Utilities.Interfaces
 {
     public interface IDataAccess
     {
